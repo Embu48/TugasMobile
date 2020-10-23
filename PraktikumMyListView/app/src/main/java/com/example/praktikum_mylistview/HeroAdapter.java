@@ -64,3 +64,4 @@ public class HeroAdapter extends BaseAdapter {
         }
     }
 }
+
